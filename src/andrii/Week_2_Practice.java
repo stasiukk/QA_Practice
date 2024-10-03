@@ -1,7 +1,8 @@
 package andrii;
 
 public class Week_2_Practice {
-    //fancy code
-    //fancy code
+    public static void main (String args    []){
+        // code
+    }
 
 }
